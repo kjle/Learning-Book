@@ -1,4 +1,3 @@
-# OI
 # code题解库
 ### 包括
 TYVJ: http://www.tyvj.cn/
