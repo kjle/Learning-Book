@@ -27,11 +27,3 @@ HJY：http://blog.csdn.net/jjikkollp?viewmode=contents
 YQH：http://blog.leanote.com/accelerator__
 
 FCJ：http://www.cnblogs.com/linda-fcj/
-
-### 模板
-
-图论
-
-数论
-
-树
